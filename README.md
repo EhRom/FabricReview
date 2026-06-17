@@ -1,7 +1,7 @@
 # FabricReview
 A review of the latest blog posts about Microsoft Fabric
 
-- 2026 H1 notes
+- [2026 H1 notes](./2026-H1.md)
 
 Main sources:
 
