@@ -5,6 +5,7 @@ A review of the latest blog posts about Microsoft Fabric
 - [2025 Q3 notes](./2025-Q3.md)
 - [2025 Q4 notes](./2025-Q4.md)
 - [2026 H1 notes](./2026-H1.md)
+- [2026 H2 notes](./2026-H2.md)
 
 Main sources:
 
